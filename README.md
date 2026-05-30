@@ -3,4 +3,4 @@
 
 ## Flowchart:
 
-![https://github.com/Aero-ComSci/1-3-8-choose-your-path-LemonSCoder/blob/main/flowChartCYOA.drawio.png](https://github.com/Aero-ComSci/1-3-8-choose-your-path-LemonSCoder/blob/main/flowChartCYOA.drawio.png)
+![https://github.com/LemonSCoder/choose-your-own-path/blob/main/flowChartCYOA.drawio.png](https://github.com/LemonSCoder/choose-your-own-path/blob/main/flowChartCYOA.drawio.png)
